@@ -1,6 +1,6 @@
 # SpotifyToDeezer
 
-É um programa em python3 que passa uma playlist do Spotify (ou musicas favoritadas) para uma playlist no Deezer. Toda a parte de oauth2 é feita manualmente no deezer ou seja você precisa entregar a chave para o programa, entretanto para o spotify se utiliza muito uma biblioteca especifica que já tem todo o oauth2 automatizado. Fiz esse código no tédio da pandemia e provavelmente tem muitos erros bobos, mas funcionava razoavelmente bem.
+É um programa em python3 que passa uma playlist do Spotify (ou musicas favoritadas) para uma playlist no Deezer. Toda a parte de oauth2 é feita manualmente no deezer ou seja você precisa entregar a chave para o programa, entretanto para o spotify se utiliza muito uma biblioteca especifica que já tem todo o oauth2 automatizado. Fiz esse código no tédio da pandemia e provavelmente tem muitos erros bobos, mas funciona(funcionava) razoavelmente bem.
 
 ## Requirements 
 Instale a biblioteca externa Spotipy
